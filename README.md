@@ -34,6 +34,7 @@ export default CustomIputText;
 ```
 
 <h2>styles.ts</h2>
+
 ```typescript
 
 import styled from 'styled-components/native';
