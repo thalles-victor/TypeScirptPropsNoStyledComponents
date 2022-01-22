@@ -33,7 +33,7 @@ const CustomIputText: React.FC = () => {
 export default CustomIputText;
 ```
 
-styles.ts
+<h2>styles.ts</h2>
 ```typescript
 
 import styled from 'styled-components/native';
