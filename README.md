@@ -1,6 +1,7 @@
 # thalles-victor-ToggleColorInStyledComponentsWhitProps
 <h1> Como criar e passar propriedades do componente Para A estilização no CSS do Styled-Components </h1>
-Esse repositório mostra como passar propriedades de um componente para sua estilização no CSS com typescript.
+Esse repositório mostra como passar propriedades de um componente para sua estilização no CSS com typescript, e o exemplo usado altera a cor da
+borda de um input text.
 
 <h2>index.tsx</h2>
 
@@ -43,9 +44,7 @@ interface Props {
     isFocus: boolean
 }
 
-export const Container = styled.View`
-  
-`;
+export const Container = styled.View``;
 
 export const Input = styled.TextInput<Props>`
     width: 300px;
