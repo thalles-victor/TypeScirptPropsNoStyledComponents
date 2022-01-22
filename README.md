@@ -2,7 +2,8 @@
 <h1> Como criar e passar propriedades do componente Para A estilização no CSS do Styled-Components </h1>
 Esse repositório mostra como passar propriedades de um componente para sua estilização no CSS com typescript.
 
-index.tsx
+<h2>index.tsx</h2>
+
 ```typescript
 import React, {useState} from 'react';
 import { Text } from 'react-native';
